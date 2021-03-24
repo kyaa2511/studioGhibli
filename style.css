@@ -1,0 +1,36 @@
+.moviesImg {
+    width: 13em;
+}
+
+/* .movieDisplayList {
+    
+    
+        display: inline-grid;
+        grid-template-columns: 14em 14em 14em 14em;
+        grid-template-rows: 14em 14em 14em 14em 4em;
+        gap: 4% 0px;
+        grid-template-areas:
+          ". . . ."
+          ". . . ."
+          ". . . ."
+          ". . . ."
+          ". . . .";
+      
+      
+ 
+      
+      } */
+      
+   
+
+
+.displayMovie {
+    display: flex;
+    float: right;
+    margin-right: 45em;
+    border-left: 2px solid  ;
+
+
+   
+    
+}
