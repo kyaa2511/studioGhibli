@@ -1,6 +1,19 @@
-.moviesImg {
-    width: 13em;
+
+.movie {
+    background-color: rosybrown;
 }
+
+
+
+
+
+
+
+
+
+/* .moviesImg {
+    width: 13em;
+} */
 
 /* .movieDisplayList {
     
@@ -23,7 +36,7 @@
       
    
 
-
+/* 
 .displayMovie {
     display: flex;
     float: right;
@@ -33,4 +46,4 @@
 
    
     
-}
+} */
